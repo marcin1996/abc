@@ -1,4 +1,5 @@
-#include <iostream> 
+﻿#include <iostream>
+zmiana drugiej linijki 
  
   main() //poczatek kodu
 {
