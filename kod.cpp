@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 zmiana drugiej linijki 
+zmiana trzeciej
  
   main() //poczatek kodu
 {
