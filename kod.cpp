@@ -1,4 +1,8 @@
 ﻿#include <iostream>
+
+
+RAZDWATRZY
+
 zmiana drugiej linijki 
 zmiana trzeciej
  
