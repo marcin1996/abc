@@ -1,6 +1,6 @@
-﻿#include <iostream> 
+#include <iostream> 
  
-  main()
+  main() //poczatek kodu
 {
 int i,j,k,N,tmp=0;
 
