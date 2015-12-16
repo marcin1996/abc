@@ -3,7 +3,7 @@
 
 int main (void)
 {
-
+const int p=20;
 const int s=10;  //  <-- Poteg do wypisania    max -> 17
 
 
