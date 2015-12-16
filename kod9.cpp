@@ -1,6 +1,7 @@
 # include <iostream.h>
 # include <stdio.h>
 # include <math.h>
+# include <string.h>
 
 double modd(double l1, double l2)
 {

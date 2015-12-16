@@ -1,6 +1,7 @@
 # include <iostream.h>
 # include <stdio.h>
 # include <math.h>
+# include <string.h>
 
 double tg(double x)
 {
