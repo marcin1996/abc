@@ -13,7 +13,7 @@ for (int i=0,ilosc=0;i<size;i++)
 	  {
 		  if (string[i]==' '){ilosc++;};
 
-	  };
+	  };      //tu nowy
 cout<<"Wyrazow w zdaniu jest "<<ilosc;
 }
 
