@@ -9,7 +9,7 @@ randomize();
 
 
 const size=9;   // wielkosc tablicy - ilosc liczb
-
+//cos nie dziala
 
 int lp=0;//liczby parzyste
 int pp=0;//liczby pierwsze
