@@ -1,6 +1,6 @@
 # include <iostream.h>
 
-
+//warto cos tu dodac
 main()
 {
 const size=200;   //Ilosc liter w zdaniu - dlugosc zdania
