@@ -6,7 +6,7 @@ double tg(double x)
 {
 double pi=3.14159265358979;
 return sin(x*pi/180)/cos(x*pi/180);}
-main()
+main() //malo czytelny
 {
 cout<<"Podaj kat : ";
 double kat;
