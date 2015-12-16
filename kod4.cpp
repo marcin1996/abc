@@ -7,7 +7,7 @@ main()
 const size=20;   // dlugosc imienia
 
 char string[size];
-cout<<"Wpisz swoje imie max "<<size<<" literowe   : ";
+cout<<"Wpisz swoje imie max "<<size<<" literowe   : ";//wpisanie
 cin>>string;
 cout<<endl;
 cout<<"Twoja Plec to : ";
