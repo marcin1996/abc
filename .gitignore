@@ -1,4 +1,4 @@
 /test.txt
 /*.js
 
-tmp*.txt
+/*tmp*.*
